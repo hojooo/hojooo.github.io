@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: 문호주 | MOON HOJOO
 title: Junior dev
-email: ghwn5833@gmail.com
-phonenumber: 010-2430-5833
+# email: ghwn5833@gmail.com
+# phonenumber: 010-2430-5833
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -49,10 +49,9 @@ github_username: hojooo
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  # 반갑습니다. 저는 문호주입니다. 
-  
+  ## 반갑습니다, 저는 문호주입니다. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
 
 content:
   - title: Projects # Title for the section
@@ -70,9 +69,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          웹 개발 동아리에서 활동하며 다른 단과대학의 요구사항에 맞추어 개발하였습니다.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          What did I do.
+          - 
+          - 
 
 
   # - title: Experience # Title for the section
@@ -108,27 +109,24 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Overall.
+      - 
+      - 
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Communication.
+      - 
+      - 
+
+      Dev.
+      - python
+      - Django
 
 
-  # - title: Contact
-  #     layout: text
-  #     content: | # this will include new lines to allow paragraphs
-  #       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-  #       - Rock climbing
-  #       - Gaming
-  #       - Knitting
-  #       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-  #       Look at this cool image  
-  #       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Contact
+      layout: text
+      content: | # this will include new lines to allow paragraphs
+        Email: ghwn5833@gmail.com
+        phone: 010-2430-5833
 
 
   # - title: A Little More About Me
@@ -145,7 +143,7 @@ content:
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
