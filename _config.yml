@@ -110,7 +110,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Overall.
-      - 
+      - 어려운 문제에 대한 해결에 적극적으로 도전합니다. '도전'이 가지는 가치는 녹슬지 않는다고 믿습니다.
+      - 필요하다면 자신있는 분야가 아니더라도 적극적으로 통찰하여 앞으로 정진합니다.
       - 
 
       Communication.
@@ -120,6 +121,7 @@ content:
       Dev.
       - python
       - Django
+      - mysql
 
 
   - title: Contact
