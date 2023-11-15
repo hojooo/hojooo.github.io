@@ -9,6 +9,7 @@ version: 2
 name: 문호주 | MOON HOJOO
 title: Junior dev
 email: ghwn5833@gmail.com
+phonenumber: 010-2430-5833
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -117,17 +118,17 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 
-  - title: Contact
-      layout: text
-      content: | # this will include new lines to allow paragraphs
-        Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-        - Rock climbing
-        - Gaming
-        - Knitting
-        - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  # - title: Contact
+  #     layout: text
+  #     content: | # this will include new lines to allow paragraphs
+  #       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #       - Rock climbing
+  #       - Gaming
+  #       - Knitting
+  #       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-        Look at this cool image  
-        ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  #       Look at this cool image  
+  #       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 
   # - title: A Little More About Me
