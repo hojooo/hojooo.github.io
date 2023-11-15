@@ -126,8 +126,9 @@ content:
   - title: Contact
     layout: text
     content: | # this will include new lines to allow paragraphs
-        Email: ghwn5833@gmail.com    
-        phone: 010-2430-5833
+        **Email: ghwn5833@gmail.com**
+        <br/>
+        **phone: 010-2430-5833**
 
 
   # - title: A Little More About Me
